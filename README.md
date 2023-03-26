@@ -11,4 +11,4 @@
 
 
 
-**If you have any questions regaurding the script feel free to add me on discord weston#0001 **
+**If you have any questions regaurding the script feel free to add me on discord weston#0001**

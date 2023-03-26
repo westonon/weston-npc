@@ -8,3 +8,7 @@
 3. Drag file into resources 
 
 4. Add to server.cfg ```start weston-npc```
+
+
+
+**If you have any questions regaurding the script or any of my projects feel free to add me on discord weston#0001 or email me bussinessvon@gmail.com**
